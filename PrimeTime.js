@@ -7,4 +7,4 @@ function PrimeTime( num ) {
 	return true;
 }
 
-console.log(PrimeTime(50));
+console.log(PrimeTime(20));
